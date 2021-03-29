@@ -1,0 +1,1 @@
+The app solves the problem of leftover furniture or belongings during a move from a residence. The users provides a listing of the item(s) that they do not need. These can be picked up by others using the app. This also features a messaging system so that users can communicate with each other.
